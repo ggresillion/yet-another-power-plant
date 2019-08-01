@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "yapp:blocks/core_building_block"
+  }
+}

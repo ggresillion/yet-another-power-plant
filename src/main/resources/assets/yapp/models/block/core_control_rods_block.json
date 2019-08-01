@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "yapp:blocks/core_control_rods_block_side",
+    "south": "yapp:blocks/core_control_rods_block_side",
+    "east": "yapp:blocks/core_control_rods_block_side",
+    "west": "yapp:blocks/core_control_rods_block_side",
+    "up": "yapp:blocks/core_control_rods_block_up",
+    "down": "yapp:blocks/core_control_block_down"
+  }
+}

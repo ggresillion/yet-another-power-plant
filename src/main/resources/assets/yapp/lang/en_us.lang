@@ -1,0 +1,5 @@
+tile.target_block.name=Bullseye Target
+tile.core_building_block.name=Core Case
+tile.core_water_intake_block.name=Core Water Intake
+tile.core_steam_exhaust_block.name=Core Steam Exhaust
+tile.core_control_rods_block.name=Core Control Rods

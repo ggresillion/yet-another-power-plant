@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "north": "yapp:blocks/core_steam_exhaust_block",
+    "south": "yapp:blocks/core_building_block",
+    "east": "yapp:blocks/core_building_block",
+    "west": "yapp:blocks/core_building_block",
+    "up": "yapp:blocks/core_building_block",
+    "down": "yapp:blocks/core_building_block"
+  }
+}

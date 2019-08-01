@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yapp:core_water_intake_block"
+    }
+  }
+}

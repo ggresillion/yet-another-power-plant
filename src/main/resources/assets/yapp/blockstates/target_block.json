@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "yapp:target_block_model"
+    }
+  }
+}
